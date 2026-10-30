@@ -1,0 +1,6 @@
+{
+  "name": "MUNDIÊ Histórias — HQs Interativas",
+  "description": "Plataforma editorial brasileira de histórias em quadrinhos interativas para pré-adolescentes e adolescentes. Seu mundo. Suas histórias. Mil descobertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
